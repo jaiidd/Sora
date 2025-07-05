@@ -55,9 +55,9 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## 🎶 Stations
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391030789021503650/image.png?ex=686a69e0&is=68691860&hm=b56bb340fbc8a0dd57c428a1ff47cd2f45b11dbe140a3151708f780f1ef2b869&=&format=webp&quality=lossless" alt="Stations" width="700" />
+  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391059901039509544/image.png?ex=686a84fd&is=6869337d&hm=84f35c2d9da55783527e00e3f6efeaba018c550ba3493e052c0bf04942c193f7&=&format=webp&quality=lossless" alt="Stations" width="700" />
 </p>
 
 <p align="center">
-  <strong>There are currently 3 stations available for free — and more will be added over time!</strong>
+  <strong>There are currently 5 stations available for free — and more will be added over time!</strong>
 </p>
