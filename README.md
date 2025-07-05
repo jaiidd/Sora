@@ -41,7 +41,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ⚙️ Configuration Command
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391029790479224935/image.png?ex=686a68f2&is=68691772&hm=fa0298f64e65f86179580bfe5a431cb4fa603a3ea8de92f59828b9799aac7e5f&=&format=webp&quality=lossless" alt="Config Command Preview" width="800" />
+  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391029790479224935/image.png?ex=686a68f2&is=68691772&hm=fa0298f64e65f86179580bfe5a431cb4fa603a3ea8de92f59828b9799aac7e5f&=&format=webp&quality=lossless" alt="Config Command Preview" width="700" />
 </p>
 
 ---
@@ -49,5 +49,15 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ❔ Help Command
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391023511593685053/image.png?ex=686a6319&is=68691199&hm=b6e17b0a252ef3f1452b3dfc64f56ee4f185cffd2a357293143fa3aeed55960e&=&format=webp&quality=lossless" alt="Help Command Preview" width="800" />
+  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391023511593685053/image.png?ex=686a6319&is=68691199&hm=b6e17b0a252ef3f1452b3dfc64f56ee4f185cffd2a357293143fa3aeed55960e&=&format=webp&quality=lossless" alt="Help Command Preview" width="700" />
+</p>
+
+## 🎶 Stations
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391030789021503650/image.png?ex=686a69e0&is=68691860&hm=b56bb340fbc8a0dd57c428a1ff47cd2f45b11dbe140a3151708f780f1ef2b869&=&format=webp&quality=lossless" alt="Stations" width="700" />
+</p>
+
+<p align="center">
+  <strong>There are currently 3 stations available for free — and more will be added over time!</strong>
 </p>
