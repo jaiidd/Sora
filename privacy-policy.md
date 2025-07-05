@@ -1,6 +1,6 @@
 # Sora - Privacy Policy
 
-**Privacy Policy for MusicBoat**
+**Privacy Policy for Sora**
 
 **1. Data Collection and Use**  
 We collect minimal information to improve your experience and ensure our services run smoothly. This includes:  
