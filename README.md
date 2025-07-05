@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sora&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sora&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
 </p>
 
 # 📜 Sora Terms & Privacy Policy
@@ -24,14 +24,10 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
        border-radius: 8px;
        font-family: Arial, sans-serif;
        display: inline-block;
-       box-shadow: 0 4px 8px rgba(88, 101, 242, 0.4);
-       transition: background-color 0.3s ease, box-shadow 0.3s ease;
+       box-shadow: 0 4px 12px rgba(88, 101, 242, 0.5);
        cursor: pointer;
      "
-     onmouseover="this.style.backgroundColor='#4752c4'; this.style.boxShadow='0 6px 12px rgba(71, 82, 196, 0.6)';"
-     onmouseout="this.style.backgroundColor='#5865F2'; this.style.boxShadow='0 4px 8px rgba(88, 101, 242, 0.4)';"
   >
     ➕ Invite Sora Bot
   </a>
 </div>
-
