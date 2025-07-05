@@ -17,14 +17,21 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
      style="
        background-color: #5865F2;
        color: white;
-       padding: 12px 24px;
-       font-weight: bold;
+       padding: 14px 28px;
+       font-weight: 700;
+       font-size: 18px;
        text-decoration: none;
-       border-radius: 6px;
+       border-radius: 8px;
        font-family: Arial, sans-serif;
        display: inline-block;
-       margin-bottom: 30px;
-     ">
+       box-shadow: 0 4px 8px rgba(88, 101, 242, 0.4);
+       transition: background-color 0.3s ease, box-shadow 0.3s ease;
+       cursor: pointer;
+     "
+     onmouseover="this.style.backgroundColor='#4752c4'; this.style.boxShadow='0 6px 12px rgba(71, 82, 196, 0.6)';"
+     onmouseout="this.style.backgroundColor='#5865F2'; this.style.boxShadow='0 4px 8px rgba(88, 101, 242, 0.4)';"
+  >
     ➕ Invite Sora Bot
   </a>
 </div>
+
