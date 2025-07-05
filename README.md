@@ -1,6 +1,6 @@
 # 📜 Sora Terms & Privacy Policy
 
-Welcome, and thank you for using **Sora**!
+Welcome, and thank you for using **[Sora](https://discord.com/oauth2/authorize?client_id=1248148145028726805&permissions=7392256&integration_type=0&scope=bot+applications.commands)**!
 
 Please take a moment to review our **Privacy Policy** and **Terms of Service**. We want to be transparent about the limited data we access, how it's used, and your rights as a user.
 
