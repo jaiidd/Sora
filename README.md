@@ -17,7 +17,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 <br/>
 
 <div align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=1248148145028726805&permissions=7392256&scope=bot+applications.commands" target="_blank" 
+  <a href="https://discord.com/oauth2/authorize?client_id=1248148145028726805&permissions=4298165504&scope=bot+applications.commands" target="_blank" 
      style="
        background-color: #5865F2;
        color: white;
