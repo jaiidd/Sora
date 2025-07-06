@@ -41,7 +41,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ⚙️ Configuration Command
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391029790479224935/image.png?ex=686a68f2&is=68691772&hm=fa0298f64e65f86179580bfe5a431cb4fa603a3ea8de92f59828b9799aac7e5f&=&format=webp&quality=lossless" alt="Config Command Preview" width="700" />
+  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391403299902717982/image.png?ex=686bc4cd&is=686a734d&hm=69153c7e2cb576628d4591b6f5b380859bba7f45bd9cb4049c4abd8f7c9a71db&=&format=webp&quality=lossless" alt="Config Command Preview" width="700" />
 </p>
 
 ---
