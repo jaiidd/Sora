@@ -11,7 +11,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 <br/>
 
 <div align="center">
-  <img src="/images/soralogo.png" alt="Sora Logo" width="280" />
+  <img src="/images/sora.png" alt="Sora Logo" width="280" />
 </div>
 
 <br/>
@@ -49,7 +49,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ❔ Help Command
 
 <p align="center">
-  <img src="/images/help.pmg" alt="Help Command Preview" width="700" />
+  <img src="/images/help.png" alt="Help Command Preview" width="700" />
 </p>
 
 ## 🎶 Stations
