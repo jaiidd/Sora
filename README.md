@@ -11,7 +11,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 <br/>
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391023593118502992/image.png?ex=686f006c&is=686daeec&hm=c91e1c3910723024fe2c9decb37c59a81e1643b421aa80e6e9e4c5e9a5a3a921&=&format=webp&quality=lossless&width=350&height=350" alt="Sora Logo" width="280" />
+  <img src="/images/soralogo.png" alt="Sora Logo" width="280" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ⚙️ Configuration Command
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391403299902717982/image.png?ex=686f108d&is=686dbf0d&hm=c4cfc7d477cc3e88f9b95d0e2ecfee3eee713b695b19b68a1049a2f206fb435c&=&format=webp&quality=lossless" alt="Config Command Preview" width="700" />
+  <img src="/images/configure.png" alt="Config Command Preview" width="700" />
 </p>
 
 ---
@@ -49,13 +49,13 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 ## ❔ Help Command
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391023511593685053/image.png?ex=686f0059&is=686daed9&hm=e57e3dd78c3f391a35ccc5cb3237aa219e98ec28c4943b63db7e16f9e8261ea7&=&format=webp&quality=lossless" alt="Help Command Preview" width="700" />
+  <img src="/images/help.pmg" alt="Help Command Preview" width="700" />
 </p>
 
 ## 🎶 Stations
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1378357869371461632/1391059901039509544/image.png?ex=686a84fd&is=6869337d&hm=84f35c2d9da55783527e00e3f6efeaba018c550ba3493e052c0bf04942c193f7&=&format=webp&quality=lossless" alt="Stations" width="700" />
+  <img src="/images/stations.png" alt="Stations" width="700" />
 </p>
 
 <p align="center">
