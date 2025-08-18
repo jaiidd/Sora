@@ -33,7 +33,7 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
        cursor: pointer;
      "
   >
-    ➕ Invite Sora
+    ➕ Invite Sena
   </a>
 </div>
 
