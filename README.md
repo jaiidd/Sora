@@ -10,17 +10,10 @@ Please take a moment to review our **Privacy Policy** and **Terms of Service**. 
 
 <br/>
 
+
 <div align="center">
-  <img src="/images/Sena.png" alt="Sena Logo" width="280" class="circle-logo" />
+  <img src="/images/sena.png" alt="Sena Logo" width="280" />
 </div>
-
-<style>
-  .circle-logo {
-    border-radius: 50%;   /* makes it circular */
-    object-fit: cover;    /* crops inside if not square */
-  }
-</style>
-
 
 <br/>
 
