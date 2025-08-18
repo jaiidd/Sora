@@ -1,18 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sora&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sena&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="Sora Banner" />
 </p>
 
-# 📜 Sora Terms & Privacy Policy
+# 📜 Sena Terms & Privacy Policy
 
-Welcome, and thank you for using **[Sora](https://discord.com/oauth2/authorize?client_id=1248148145028726805&permissions=7392256&integration_type=0&scope=bot+applications.commands)**!
+Welcome, and thank you for using **[Sena](https://discord.com/oauth2/authorize?client_id=1248148145028726805&permissions=7392256&integration_type=0&scope=bot+applications.commands)**!
 
 Please take a moment to review our **Privacy Policy** and **Terms of Service**. We want to be transparent about the limited data we access, how it's used, and your rights as a user.
 
 <br/>
 
 <div align="center">
-  <img src="/images/sora.png" alt="Sora Logo" width="280" />
+  <img src="/images/Sena.png" alt="Sena Logo" width="280" class="circle-logo" />
 </div>
+
+<style>
+  .circle-logo {
+    border-radius: 50%;   /* makes it circular */
+    object-fit: cover;    /* crops inside if not square */
+  }
+</style>
+
 
 <br/>
 
